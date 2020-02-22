@@ -1,4 +1,4 @@
 # ece-gy-6143-machine-learning
 
-Implementations for ECE-GY Machine Learning 
+Implementations for NYU ECE-GY 6143 Machine Learning 
 
